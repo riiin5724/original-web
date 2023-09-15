@@ -1,0 +1,94 @@
+.header-center img{
+    height: 100px;
+
+}
+.header-center{
+    display: flex;
+    align-items: center;
+}
+.header-title p {
+    margin: 0;
+    /* padding-left: ; */
+    font-size: 20px;
+}
+
+body{
+    width: 100%;
+    background-color: #299EBF;   
+}
+
+header{
+    height: 100px;
+    width: 100%;
+    background-color: #299EBF;
+    /* display: flex;
+    align-items: center; */
+   
+}
+
+.nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.nav>li>a{
+    color: black;
+    font-size: 20px;
+    margin-left: 20px;
+    text-decoration: none;
+}
+
+.carousel-item img {
+    height: 100vh;
+    object-fit: cover;
+}
+
+.subtitle{
+    text-align: center;
+    font-size: 40px;
+    margin: 0 auto;
+    background-color: #299EBF;
+    align-items: center;
+    height: 70px;
+}
+
+.history {
+    width: 90%;
+    margin: 0 auto;
+    text-align: center;
+}
+.history h2 {
+    margin: 20px 0 15px 0;
+}
+
+.history-detail {
+    display: flex;
+    justify-content: space-around;
+}
+.history-img img {
+    height: 300px;
+}
+#subtitle>h1{
+    font-size: 40px;
+    text-align: center;
+    color: black;
+    padding-top: 40px;
+}
+
+.under {
+    text-align: center;
+    background-color: #299EBF;
+    border-bottom: 10px;
+
+}
+
+.under {
+    height: 70px;
+    background-color: #299EBF;
+   
+}
+
+.under h3 {
+    margin: 0 auto;
+    text-align: center;
+}
